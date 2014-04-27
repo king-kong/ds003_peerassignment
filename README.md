@@ -15,3 +15,12 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 6.  added Activity label to cset
 7.  add Subject
 8.  summarize - mean of each variable by subject and activity
+
+
+*** Code Book
+*** Output Columns
+
+1. Subject number (1-30)
+2. Activity
+3. Variable ('the measurement taken')
+4. Mean of the Variable
